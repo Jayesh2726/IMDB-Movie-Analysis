@@ -12,15 +12,19 @@ Data Analysis:
 🎭 A. Movie Genre Analysis
 Objective: Analyze the distribution of movie genres and their impact on the IMDB score.
 Task: Determine the most common genres and calculate the descriptive statistics (mean, median, mode, range, variance, standard deviation) of IMDB scores for each genre.
+
 ⏳ B. Movie Duration Analysis
 Objective: Understand the impact of movie duration on IMDB scores.
 Task: Analyze the distribution of movie durations and identify the relationship between duration and IMDB score.
+
 🗣️ C. Language Analysis
 Objective: Examine the distribution of movies based on language and its influence on IMDB ratings.
 Task: Determine the most common languages and use descriptive statistics to assess their impact on IMDB scores.
+
 🎬 D. Director Analysis
 Objective: Evaluate how directors influence movie success.
 Task: Identify top directors based on average IMDB scores and analyze their contribution using percentile calculations.
+
 💰 E. Budget Analysis
 Objective: Explore the relationship between movie budgets and their financial success.
 Task: Analyze the correlation between budgets and gross earnings and identify the movies with the highest profit margins.
